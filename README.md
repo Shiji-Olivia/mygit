@@ -1,0 +1,2 @@
+# mygit
+A javascript project
